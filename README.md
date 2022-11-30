@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kristián Kekeš, a 15 year old programmer 🤖, gamer 🎮 and technology enjoyer 🤩 from Slovakia 🇸🇰</div>  
+### <div align="center">I'm Kristián Kekeš, a 16 year old programmer 🤖, gamer 🎮 and technology enjoyer 🤩 from Slovakia 🇸🇰</div>  
   
 
 - 🔭 I’m currently working on random stuff I find interesting.  
