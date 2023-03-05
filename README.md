@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bananikxenos" alt="bananikxenos" /></a> </p>
 
-- 🔭 I’m currently working on **random stuff**
+- 🔭 I’m currently working on **random stuff to extend my knowledge**
 
-- 🌱 I’m currently learning **Java and Android**
+- 🌱 I’m currently learning **Java and Android applications**
 
-- 📫 How to reach me **gamerix2006@gmail.com**
+- 📫 How to reach me **Email: gamerix2006@gmail.com Discord: Synse#3191**
 
-- ⚡ Fun fact **I like pizza**
+- ⚡ Fun fact **I'm mostly a self taught programmer. Up until 2023, I learned Java, Python, C#, Html, CSS, JavaScript, and some C++ by myself. Currently, I'm taking a Html and CSS class at my school.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
