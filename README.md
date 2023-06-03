@@ -16,6 +16,8 @@ Here are some of the notable projects I've worked on:
 
 - [3D Chunk Engine](https://github.com/BananikXenos/3D-Chunk-Engine): An experimental Minecraft-like chunk system with its own block system implemented.
 
+- [PacketNET](https://github.com/BananikXenos/PacketNet): Efficient networking library for Java. Simplify communication with TCP and UDP protocols. Build robust network applications.
+
 Visit my [portfolio website](https://synsenet.ddns.net) to explore more of my projects and learn about my skills and expertise.
 
 ## Contact Me
