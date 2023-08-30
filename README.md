@@ -25,7 +25,7 @@ Visit my [portfolio website](https://synsenetwork.com) to explore more of my pro
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me. You can find me on the following platforms:
 
 - Email: gamerix2006@gmail.com
-- Discord: Synse#3191
+- Discord: synse
 - Instagram: https://www.instagram.com/kri_kekes/
 - Telegram: https://telegram.me/kristiankekes
 - YouTube: https://www.youtube.com/channel/UC22P5A549VnmEdKg8XwjCHw
