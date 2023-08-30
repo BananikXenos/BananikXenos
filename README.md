@@ -18,7 +18,7 @@ Here are some of the notable projects I've worked on:
 
 - [PacketNET](https://github.com/BananikXenos/PacketNet): Efficient networking library for Java. Simplify communication with TCP and UDP protocols. Build robust network applications.
 
-Visit my [portfolio website](https://synsenet.ddns.net) to explore more of my projects and learn about my skills and expertise.
+Visit my [portfolio website](https://synsenetwork.com) to explore more of my projects and learn about my skills and expertise.
 
 ## Contact Me
 
