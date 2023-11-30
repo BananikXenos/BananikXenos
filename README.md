@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Kristián Kekeš, a passionate programmer and 
 
 ## About Me
 
-I'm a 16-year-old student with a burning passion for programming and computers. I'm currently studying at Stredná odborná škola elektrotechnická in Liptovský Hrádok, where I'm constantly learning and exploring the vast realms of technology.
+I'm a 17-year-old student with a burning passion for programming and computers. I'm currently studying at Stredná odborná škola elektrotechnická in Liptovský Hrádok, where I'm constantly learning and exploring the vast realms of technology.
 
 With a strong foundation in programming, I enjoy working with various languages such as Java, C#, Python, and web development technologies like HTML, CSS, and JavaScript. I'm also experienced in Android development, game development using Unity, and computer vision with OpenCV.
 
